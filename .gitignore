@@ -1,0 +1,9 @@
+packages/
+OutputData/
+Release/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.config
+.vs/
